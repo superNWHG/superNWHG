@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @superNWHG
-- 👀 I’m interested in **Programming**
+- 👀 I’m interested in **Programming, game development and guitar**
 - 💞️ I’m looking to collaborate on **nothing**
-- 📫 How to reach on **Discord: i_am_name**
+- 📫 You can reach on **Discord: i_am_name**
 
 <!---
 superNWHG/superNWHG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
