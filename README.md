@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @superNWHG
-- 👀 I’m interested in **Programming, game development and guitar**
+- 👀 I’m interested in **Things**
 - 💞️ I’m looking to collaborate on **nothing**
 - 📫 You can reach on **geesinknico@duck.com**
 
